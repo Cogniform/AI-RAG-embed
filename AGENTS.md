@@ -27,6 +27,7 @@
 - HF 端点默认 hf-mirror.com，勿覆盖为 huggingface.co
 - documents/ 教科书 math 会被 check-links 误报为断链；plan/ 规划稿同类 —— 跑校验时加 `--exclude documents --exclude plan`
 - docs/ 与 tests/ 已放开 gitignore 跟踪（2026-08-24）
+- chromadb 告警 ×4（GHSA-36p7-vc44-83pf，critical×2 + high×2，代码注入）提不了 PR：上游无修复版（PyPI 最新 1.5.9 = advisory 上界，实测 `chromadb>1.5.9` 无解）。chromadb 是传递依赖、代码零直接 import。挂着等上游，**重复见到别再排查**
 
 ## 文档地图
 - 架构 → docs/ARCHITECTURE.md
