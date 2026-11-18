@@ -1,6 +1,6 @@
 # AI-RAG-embed
 
-[![CI](https://github.com/zlZayn/AI-RAG-embed/actions/workflows/ci.yml/badge.svg)](https://github.com/zlZayn/AI-RAG-embed/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/Cogniform/AI-RAG-embed/actions/workflows/ci.yml/badge.svg)](https://github.com/Cogniform/AI-RAG-embed/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -429,6 +429,6 @@ Developers/maintainers: see [AGENTS.md](AGENTS.md) for working rules, test comma
 
 ## Contributing
 
-- Personal project; questions and suggestions welcome via [Issues](https://github.com/zlZayn/AI-RAG-embed/issues).
+- Personal project; questions and suggestions welcome via [Issues](https://github.com/Cogniform/AI-RAG-embed/issues).
 
 Maintainer docs map → [AGENTS.md](AGENTS.md).
